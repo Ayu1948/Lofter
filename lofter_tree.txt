@@ -1,0 +1,27 @@
+文件夹 PATH 列表
+卷序列号为 01EC-4E4B
+C:\USERS\ADMINISTRATOR\DESKTOP\LOFTER
+├─controlers
+├─libs
+│  └─smarty
+│      ├─plugins
+│      └─sysplugins
+├─modules
+├─public
+│  ├─css
+│  ├─img
+│  ├─js
+│  └─libs
+│      ├─bootstrap-3.3.7-dist
+│      │  ├─css
+│      │  ├─fonts
+│      │  └─js
+│      └─jq
+├─upload
+│  ├─img
+│  │  └─user_1
+│  ├─music
+│  │  └─user_1
+│  └─video
+│      └─user_1
+└─views
